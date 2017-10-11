@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>vuex-demo</h1>
+    <h1>vuex-demo1</h1>
     <h2>Counter</h2>
     <button @click="add">+</button>
     count: {{count}} {{evenOrOdd}}
